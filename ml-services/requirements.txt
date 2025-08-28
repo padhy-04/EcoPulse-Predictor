@@ -1,0 +1,10 @@
+# requirements.txt
+
+# Core ML Libraries
+pandas
+numpy
+scikit-learn
+
+# Libraries for testing (often put in a separate requirements-dev.txt, but included here for completeness)
+pytest
+pytest-mock
